@@ -1,12 +1,13 @@
 h1{
-    color: green;
+    color: red;
     text-align: center;
+
 }
 header{
     font-size: 50px;
     text-align: center;
     text-decoration: underline;
-    color: yellow;
+    color:red;
 }
 
 body{
@@ -17,6 +18,14 @@ p{
     text-align: center;
 }
 
-a .btn { 
-    align-content: center;
+
+
+div{
+    text-align: center;
 }
+
+h5{
+    color: red;
+    text-decoration: underline;
+}
+
